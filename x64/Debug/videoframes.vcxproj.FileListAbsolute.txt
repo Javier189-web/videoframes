@@ -1,0 +1,2 @@
+C:\Users\unive\source\repos\videoframes\x64\Debug\videoframes.exe
+C:\Users\unive\source\repos\videoframes\x64\Debug\videoframes.pdb
